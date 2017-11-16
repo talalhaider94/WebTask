@@ -55,7 +55,7 @@
   <hr>
   
   <div class="row content">
-    <div class="col-md-4 col-sm-6" style="background:#F7F7F7; height: 400px; padding-top:20px; border-style: ridge">
+    <div class="col-md-4 col-sm-6" style="background:#F7F7F7; height: 400px; padding-top:20px; border-style: ridge; margin-top:10px">
 		<center><img src="pic.jpg" class="img-thumbnail" alt="Cinque Terre" width="250" height="170"></center>
     </div>
     <div class="col-md-4 col-sm-6" style="height: 400px; border-top: 1px solid #B0B0B0; border-bottom: 1px solid #B0B0B0">
@@ -76,7 +76,7 @@
 			<center><button class="btn btn-primary" onclick="show()">Show Values</button></center>
 		</div>
 	</div>
-    <div class="col-md-4 col-sm-6" style="background:#F7F7F7; height: 400px; padding-top:20px; border-style: ridge">
+    <div class="col-md-4 col-sm-6" style="background:#F7F7F7; height: 400px; padding-top:20px; border-style: ridge; margin-top:10px">
       <p>Sed sagittis, arcu luctus sollicitudin placerat, nisi arcu elementum nisl, vel tempus ligula libero eget odio. Integer posuere velit in justo vehicula bibendum. Praesent a venenatis ligula. Duis elementum venenatis urna ut semper. Nullam tempus libero at laoreet pellentesque. Duis rhoncus at arcu pharetra congue. Donec sed egestas quam. Nam et consectetur nisi.</p>
 	  <p>Sed sagittis, arcu luctus sollicitudin placerat, nisi arcu elementum nisl, vel tempus ligula libero eget odio. Integer posuere velit in justo vehicula bibendum. Praesent a venenatis ligula. Duis elementum venenatis urna ut semper. Nullam tempus libero at laoreet pellentesque. Duis rhoncus at arcu pharetra congue. Donec sed egestas quam. Nam et consectetur nisi.</p>     
    </div>
