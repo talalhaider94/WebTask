@@ -77,8 +77,8 @@
 		</div>
 	</div>
     <div class="col-md-4 col-sm-6" style="background:#F7F7F7; height: 400px; padding-top:20px; border-style: ridge; margin-top:10px">
-        <p>My name is Atanas is this is my first web page using html and css. I am so excited to have made my first page. I am majoring in Cybersecurity and will be graduating this Fall. In the next 5 years i would like to see myself advance in the Industry and secure my future.</p></div>
-  </div>
+        <p>My name is Atanas is this is my first web page using html and css. I am so excited to have made my first page. I am majoring in Cybersecurity and will be graduating this Fall. In the next 5 years i would like to see myself advance in the Industry and secure my future.</p>
+	  </div>
   </div>
   <br>
   <!--  Footer Area-->
